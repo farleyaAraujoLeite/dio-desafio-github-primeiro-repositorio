@@ -1,4 +1,12 @@
 link para download do git:  https://git-scm.com/downloads
-
 O git bash é um terminal extendido para otimizar o uso do git.
 
+comandos básicos do Git:
+
+git clone: serve para clonar um repositório do github pelo terminal.
+
+git status: serve para verificar se as alterações no documento já estão prontas para serem enviadas para a brantsh.
+
+git add: serve para adicionar as mudanças feitas no documento e assim atualizar o repositório.
+
+git push: serve para enviar os arquivos para o repositório no github.
